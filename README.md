@@ -95,6 +95,10 @@ Project for StormMediaPlayer.com, a web-based implementation of a player device 
 
 A Microsoft Windows Media Player Edition implementation of a player device supporting the Player API.
 
+### [Media Player](https://github.com/grtvd/inetvod-mediaplayer)
+
+A C++ based implementation of a player device supporting the Player API.
+
 ### [Download Service](https://github.com/grtvd/inetvod-dls)
 
 A client Windows service that downloads content in the background, allowing for faster, offline playback.
