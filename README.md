@@ -81,9 +81,9 @@ This document defines the application programming interfaces (API) of requests/r
 
 ### [Web API](https://github.com/grtvd/inetvod-webapi)
 
-The heart of iNetVOD, a web-based service accepting Player API requests from player devices via and calling our to provider servers via the Provider API.
+The heart of iNetVOD, a web-based service accepting Player API requests from player devices and calling out to provider servers via the Provider API.
 
-### [API Service]()
+### [API Service](https://github.com/grtvd/inetvod-apiservice)
 
 A periodic task runner for performing various updates, such as updating available provider content.
 
